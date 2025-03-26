@@ -1,4 +1,4 @@
-Vectry
+Vectry Analytics
 ======
 
 **Causal Data Infrastructure Layer for structured event modeling and tracing — enabling explainable, queryable, and AI-native systems.**
